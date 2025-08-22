@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-- Live Site URL: [Add live site URL here](https://blog-preview-card-rosy-tau.vercel.app/)
+- Solution URL: [click here:](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+- Live Site URL: [click here:](https://blog-preview-card-rosy-tau.vercel.app/)
 
 ## My process
 
